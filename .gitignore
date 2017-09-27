@@ -1,0 +1,8 @@
+*.tfstate
+*.tfstate.backup
+*.override
+pki/*.crt
+pki/*.key
+pki/*.csr
+*.tfvars
+.terraform
